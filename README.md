@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Joy! 👋
 
 <!--
 **joychen5069/joychen5069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello! I'm Joy Chen, a passionate full-stack developer from North Carolina.
+ * I am currently working on my project [DND Finder](https://github.com/joychen5069/DnDFinder)
+ * I am currently learning C# and Python
+
 [![Joy's github stats](https://github-readme-stats.vercel.app/api?username=joychen5069&show_icons=true&theme=blue-green)](https://github.com/joychen5069/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joychen5069&layout=compact&theme=blue-green)](https://github.com/joychen5069/github-readme-stats)
