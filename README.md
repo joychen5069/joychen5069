@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 Hello! I'm Joy Chen, a passionate full-stack developer from North Carolina.
+
  * I am currently adding new features to my [COVID App](https://github.com/joychen5069/COVID-App)
- * I am currently learning Angular.Js
+ * I am currently learning Angular.Js using Udemy
+ * Pronouns: She/Her/Hers
+ * Fun Fact: I made a total career change from working in law enforcenment to development ⚡
+
+ 
+
 
 [![Joy's github stats](https://github-readme-stats.vercel.app/api?username=joychen5069&show_icons=true&theme=blue-green)](https://github.com/joychen5069/github-readme-stats)
 
