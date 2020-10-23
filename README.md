@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Hello! I'm Joy Chen, a passionate full-stack developer from North Carolina.
- * I am currently adding new features to my [COVID App](https://github.com/joychen5069/COVID-App) and working on my project [DND Finder](https://github.com/joychen5069/DnDFinder)
- * I am currently learning C# and Python
+ * I am currently adding new features to my [COVID App](https://github.com/joychen5069/COVID-App)
+ * I am currently learning Angular.Js
 
 [![Joy's github stats](https://github-readme-stats.vercel.app/api?username=joychen5069&show_icons=true&theme=blue-green)](https://github.com/joychen5069/github-readme-stats)
 
