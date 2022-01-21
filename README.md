@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Hello! I'm Joy Chen, a passionate full-stack developer from North Carolina.
 
- * I am currently adding new features to my [COVID App](https://github.com/joychen5069/COVID-App)
- * I am currently learning Angular.Js using Udemy
+ * I am currently a Front-End developer at IBM for Z Systems
+ * I am currently learning Python using Udemy
  * Pronouns: She/Her/Hers
  * Fun Fact: I made a total career change from working in law enforcenment to development ⚡
 
