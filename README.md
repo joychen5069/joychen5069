@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 Hello! I'm Joy Chen, a passionate full-stack developer from North Carolina.
 
- * I was most recently a software engineer at IBM for Z Systems (which is why my personal GitHub is sparse)
+ * I was most recently a software engineer at IBM for Z Systems (which is why my personal GitHub is sparse but I'm working on it!)
+ * I am currently looking for a role in software, preferably on the front-end side
+ * I have a passion for security testing and vulnerability patching
  * I am currently learning Python and Java using Udemy
  * Pronouns: She/Her/Hers
  * Fun Fact: I made a total career change from working in law enforcenment to software development in 2020 ⚡
